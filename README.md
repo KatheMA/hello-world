@@ -1,2 +1,2 @@
 # hello-world
-Rep test
+This new version includes users detection and validation automatically
